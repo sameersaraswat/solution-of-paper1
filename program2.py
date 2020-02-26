@@ -1,0 +1,5 @@
+k = input().split(',')
+ls = list(k)
+t = tuple(k)
+print(ls)
+print(t)
